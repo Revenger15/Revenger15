@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/f7omQNmgiyjj5sffvZ/giphy.gif" width="300" height="300"/>
 </div>
 <h1 align="center">Hewo 👋, I'm Arniel C. Fernandez</h1>
-<h3 align="center">I'm a student of PHINMA - University of Pangasinan a Bachelor of Science in Information Technology major in System Development student. Front end developer and a UI/UX designer who is able to adopt, creative thingking, strict deadlines, have leadership, and very willing to learn.</h3>
+<h3 align="center">I'm a student of PHINMA - University of Pangasinan a Bachelor of Science in Information Technology major in System Development student. Front end developer and a UI/UX designer who is able to adapt, creative thingking, strict deadlines, have leadership, and very willing to learn.</h3>
 
 - 👨‍💻 All of my projects are available at [http://arnielcfndz.me](http://arnielcfndz.me)
 
