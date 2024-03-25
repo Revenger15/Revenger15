@@ -4,13 +4,13 @@
 <h1 align="center">Hewo 👋, I'm Arniel C. Fernandez</h1>
 <h3 align="center">I'm a student of PHINMA - University of Pangasinan a Bachelor of Science in Information Technology major in System Development student. Front end developer and a UI/UX designer who is able to adapt, creative thingking, strict deadlines, have leadership, and very willing to learn.</h3>
 
-- 👨‍💻 All of my projects are available at [http://arnielcfndz.me]([(https://revenger15.github.io/My-Webies/))
+- 👨‍💻 All of my projects are available at [http://revenger15.github.io](https://revenger15.github.io/My-Webies/)
 
 - 📫 How to reach me **farniel1588@gmail.com**
 
 - 📄 Know about my experiences [http://arnielcfndz.jobs180.com](http://arnielcfndz.jobs180.com)
 
-- ⚡ Fun fact **I always like to treat everyone as my borther and sister >.<**
+- ⚡ Fun fact **I always like to treat everyone as my borther and sister since I'm only child >.<**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
